@@ -80,7 +80,7 @@
     "ember-qunit": "^8.1.0",
     "ember-resolver": "^12.0.1",
     "ember-route-template": "^1.0.3",
-    "ember-source": "~5.10.2",
+    "ember-source": "5.12.0",
     "ember-template-imports": "^4.1.1",
     "ember-template-lint": "^6.0.0",
     "eslint": "^8.0.0",
